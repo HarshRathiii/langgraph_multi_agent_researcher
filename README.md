@@ -244,12 +244,6 @@ python research_graph.py
 
 ---
 
-## Graph
-
-![LangGraph Workflow](langgraph_workflow.png)
-
----
-
 ## Author
 
 Multi-agent LangGraph system for automated research and structured AI reasoning.
